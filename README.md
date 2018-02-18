@@ -5,7 +5,7 @@ CSCE 315: A server client game in Java
 ## Authors
 
 * **Han Hong** - *Contributor* - [Hong's GitHub](https://github.com/hongsolos)
-* **Amy Li** - *Contributor* - [Amy's GitHub] (https://github.com/amyjiayao)
+* **Amy Li** - *Contributor* - [Amy's GitHub](https://github.com/amyjiayao)
 * **Claire Duong** - *Contributor* - 
 
 
